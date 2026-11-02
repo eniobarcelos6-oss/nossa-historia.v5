@@ -1,7 +1,7 @@
 /* PERSONALIZE AQUI: textos, músicas, links e perguntas. Não precisa mexer no script.js. */
 window.SITE_CONTENT = {
   instagramUrl: "https://www.instagram.com/enio_barcelos.sw/",
-  whatsappUrl: "https://wa.me/5527981183413?text=OieCorno%21%20Passei%20pelo%20site%20e%20quis%20te%20mandar%20uma%20mensagem.%20%F0%9F%92%9B",
+  whatsappUrl: "https://wa.me/5527981183413?text=Oie%20Corno%21%20Passei%20pelo%20site%20e%20quis%20te%20mandar%20uma%20mensagem.%20%F0%9F%92%9B",
   /* TRILHA: um bloco por capítulo, na ordem do site (0 = abertura ... 7 = final).
      - file: nome do MP3 dentro da pasta /musicas (o nome precisa ser IDÊNTICO)
      - reason: a mensagem que aparece no player
